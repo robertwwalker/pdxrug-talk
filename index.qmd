@@ -1,5 +1,5 @@
 ---
-title: "Much Love for Multiverse: \n How 15 Characters Removed the Dread of Hybrid Instruction"
+title: "Much Love for Multiplex: \n How 15 Characters Removed the Dread of Hybrid Instruction"
 author: "Robert W. Walker"
 format: 
    revealjs:
@@ -8,7 +8,7 @@ format:
      theme: [custom.scss]
      scrollable: true
      logo: AGSMlogo.jpeg
-     footer: "PDX R Users Group Multiverse Talk 2022-11-10"
+     footer: "PDX R Users Group Multiplex Talk 2022-11-10"
      chalkboard: true
      html-math-method: katex
      incremental: true
@@ -45,7 +45,7 @@ options(
 
 ## The Solution is Really That Easy
 
-![multiplex: true](./img/Screen Shot 2022-11-09 at 9.31.37 PM.png)
+![multiplex: true](./img/Screen Shot 2022-11-10 at 8.06.28 PM.png)
 
 ## How Does it Work?
 
